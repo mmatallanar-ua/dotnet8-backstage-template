@@ -57,8 +57,7 @@ spec:
           ui:field: RepoUrlPicker          
           ui:options:            
             allowedOwners:
-              - 0GiS0
-              - returngis
+              - mmatallanar-ua
             allowedHosts:
               - github.com
   # here's the steps that are executed in series in the scaffolder backend
